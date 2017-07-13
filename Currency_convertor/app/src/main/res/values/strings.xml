@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency_convertor</string>
+    <string name="AUD">AUD</string>
+    <string name="CAD">CAD</string>
+    <string name="INR">INR</string>
+    <string name="convert_text">Convert to</string>
+    <string name="USD">USD</string>
+    <string name="GBP">GBP</string>
+    <string name="convert">convert</string>
+    <string name="clear">clear</string>
+    <string name="input_amount_read" />
+    <string name="ouput_amount_write" />
+</resources>
